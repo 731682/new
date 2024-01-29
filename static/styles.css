@@ -1,0 +1,42 @@
+.header{
+  background:  #310000;
+  color: white;
+}
+.text {
+  font-family: Verdana;
+  font-size: 20px;
+  padding-left: 1px;
+  display:flex;
+}
+img {
+  max-width: 40%;
+  max-height:40%;
+}
+
+body {
+    font-family: Verdana;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #310000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
